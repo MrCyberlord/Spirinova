@@ -1,5 +1,5 @@
 import Header from './components/layout/Header';
-import Footer from './components/Layout/Footer';
+import Footer from './components/layout/Footer';
 import ProductList from './components/Product/ProductList';
 import FilterSidebar from './components/Filter/FilterSidebar';
 
