@@ -1,7 +1,7 @@
 import Header from './components/layout/Header';
 import Footer from './components/layout/Footer';
-import ProductList from './components/Product/ProductList';
-import FilterSidebar from './components/Filter/FilterSidebar';
+import ProductList from './components/product/ProductList';
+import FilterSidebar from './components/filter/FilterSidebar';
 
 const App = () => {
     return (
